@@ -8,6 +8,8 @@
 
 ; ####################################################################
 
+; SCREENCAST INSTRUCTIONS: http://recordit.co/tQimrsavwE 
+
 ; 1) Double click fblike.ahk
 
 ; 1b) Alternately, start w/Windows

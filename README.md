@@ -26,7 +26,9 @@
 
 ; IMPORTANT: ESC to cancel!! If you click outside, do press ESC ASAP.
 
-; NOTE 1: To change how many is invited, change the "Loop 50" below
+; NOTE 1: To change how many is invited, change the "Loop 50" below.
+          To change the speed, change the "Sleep, 1000" (1s).
+		  (500 works if you have a nice CPU)
 
 ; NOTE 2: Why does this go backwards? Because it's consistent enough
 ;         to make a hotkey. Going forwards seems unpredictable.

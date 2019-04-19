@@ -1,6 +1,6 @@
 ; ahk-auto-fb-likes (fblike.ahk) >> REQUIRES AUTOIT! 
 
-; Summary: CTR+SHIFT+L will invite 50 people on your FB page to "Like" your page, automatically.
+; Summary: CTR+SHIFT+L will invite 50 people on your FB page to "Like" your page, automatically. FRIENDS ONLY (this is NOT for spam)!
 
 ; Freely distributed via MIT license
 
